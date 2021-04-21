@@ -1,0 +1,5 @@
+fastapi==0.63.0
+uvicorn==0.13.4
+httpx==0.17.1
+Jinja2==2.11.3
+aiofiles
